@@ -1,5 +1,3 @@
-Sure, I'll help you improve your tutorial. Here are some suggestions:
-
 # Flutter SDK Installation Guide
 
 This guide will walk you through the process of installing the Flutter SDK on macOS, Windows, and Linux and, installing android studio, installing the sdk and ndk, installing the emulator and clonning and running the project
